@@ -1,0 +1,11 @@
+burger_king
+Attributes:
+is_fast_food= true
+name= "Burger King"
+capacity= (50)
+menu_items= ["whopper", "cinni minis", "etc"]
+
+adds_a_table= (capacity= 54)
+gets_acquired_by_starbucks= (name= "starbucks")
+adds_pizza= (menu_items= ["whopper, "cinni minis", "pizza", "etc"])
+serves_healthy_food= (is_fast_food= false)
