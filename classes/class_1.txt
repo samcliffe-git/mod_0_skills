@@ -1,0 +1,11 @@
+SecurityCheckpoint
+long_wait= (boolean)
+has_precheck= (boolean)
+number_of_staff= (integer)
+names= (array) ["A", "B", "C"]
+
+Methods:
+is_holiday_weekend (changes long_wait to true)
+close_airport (decreases number_of_staff to 0)
+is_located_in_guatemala (changes has_precheck to false)
+add_pandemic (changes long_wait to false)
