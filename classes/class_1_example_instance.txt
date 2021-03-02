@@ -1,0 +1,11 @@
+A
+long_wait= false
+has_precheck= true
+number_of_staff= 20
+names= ["A", "B", "C"]
+
+After using methods:
+is_holiday_weekend (long_wait= true)
+close_airport (number_of_staff= 0)
+is_located_in_guatemala (has_precheck=f alse)
+add_pandemic (long_wait= false)
