@@ -1,0 +1,9 @@
+movie= "Inception"
+is_entertaining= true
+movie= "Castaway"
+num_4= 4
+num_6= 6
+product= num_4 * num_6
+favorite_foods= ["pizza", "pasta", "bacon"]
+favorite_foods.delete("pizza")
+puts movie.length
