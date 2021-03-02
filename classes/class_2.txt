@@ -1,0 +1,11 @@
+Restaurant
+Attributes:
+is_fast_food= (boolean)
+name= (string)
+capacity= (integer)
+menu_items= (array)
+
+adds_a_table= (increases capacity by 4)
+gets_acquired_by_starbucks= (changes name to "starbucks")
+adds_pizza= (adds "pizza" to menu_items)
+serves_healthy_food= (changes is_fast_food to false)
